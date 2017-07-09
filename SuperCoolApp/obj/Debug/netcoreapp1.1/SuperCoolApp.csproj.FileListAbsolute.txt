@@ -1,0 +1,9 @@
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.deps.json
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.json
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.dev.json
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.csprojResolveAssemblyReference.cache
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.AssemblyInfo.cs
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.pdb
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\projects\angular_4_2_5\aspnet\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.pdb
